@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="49411" started-at="2018-08-30T16:00:16Z" finished-at="2018-08-30T16:01:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="49411" started-at="2018-08-30T16:00:16Z" finished-at="2018-08-30T16:01:06Z">
+      <class name="test.ExecuterClassTest">
+        <test-method status="PASS" signature="getPrerequsite()[pri:0, instance:test.ExecuterClassTest@ed9d034]" name="getPrerequsite" is-config="true" duration-ms="9765" started-at="2018-08-30T16:00:16Z" finished-at="2018-08-30T16:00:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPrerequsite -->
+        <test-method status="PASS" signature="executermethod()[pri:0, instance:test.ExecuterClassTest@ed9d034]" name="executermethod" duration-ms="37798" started-at="2018-08-30T16:00:26Z" finished-at="2018-08-30T16:01:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executermethod -->
+        <test-method status="PASS" signature="endActivity()[pri:0, instance:test.ExecuterClassTest@ed9d034]" name="endActivity" is-config="true" duration-ms="1815" started-at="2018-08-30T16:01:04Z" finished-at="2018-08-30T16:01:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endActivity -->
+      </class> <!-- test.ExecuterClassTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
